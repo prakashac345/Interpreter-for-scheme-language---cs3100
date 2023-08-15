@@ -1,0 +1,1 @@
+(define root '(Goal (IfExpression "(" "if" (FalseLiteral "#f" ) (PlusExpression "(" "+" (IntegerLiteral "3" ) (IntegerLiteral "4" ) ")" ) (PlusExpression "(" "+" (IntegerLiteral "2" ) (IntegerLiteral "4" ) ")" ) ")" ) "" ))
